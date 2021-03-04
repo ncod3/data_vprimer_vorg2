@@ -1,0 +1,16 @@
+#no	group	nickname	basename	fullname
+1	c3	DRS_013_c3_Mon	DRS_013.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_013/DRS_013.all.rd.bam
+2	c2	DRS_015_c2_Fem	DRS_015.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_015/DRS_015.all.rd.bam
+3	c4	DRS_025_c4_Fem	DRS_025.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_025/DRS_025.all.rd.bam
+4	c4	DRS_034_c4_Mon	DRS_034.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_034/DRS_034.all.rd.bam
+5	c4	DRS_035_c4_Fem	DRS_035.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_035/DRS_035.all.rd.bam
+6	c5	DRS_041_c5_Mal	DRS_041.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_041/DRS_041.all.rd.bam
+7	c1	DRS_061_c1_Mal	DRS_061.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_061/DRS_061.all.rd.bam
+8	c1	DRS_068_c1_Mal	DRS_068.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_068/DRS_068.all.rd.bam
+9	c3	DRS_080_c3_Mal	DRS_080.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_080/DRS_080.all.rd.bam
+10	c1	DRS_084_c1_Mal	DRS_084.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_084/DRS_084.all.rd.bam
+11	c5	DRS_096_c5_Mal	DRS_096.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_096/DRS_096.all.rd.bam
+12	c2	DRS_098_c2_Mon	DRS_098.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_098/DRS_098.all.rd.bam
+13	c3	DRS_099_c3_Fem	DRS_099.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_099/DRS_099.all.rd.bam
+14	c5	DRS_101_c5_Mal	DRS_101.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_101/DRS_101.all.rd.bam
+15	c2	DRS_253_c2_Mal	DRS_253.all.rd.bam	/home/ibrcuser/work/plant2/2019_Yam/1200.PCflye_ac334_ns167_align/DRS_253/DRS_253.all.rd.bam
